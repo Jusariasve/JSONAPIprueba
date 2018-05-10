@@ -1,0 +1,24 @@
+{
+  "data": [{
+    "type": "tarea",
+    "id": "123",
+    "attributes": {
+      "texto" : "Punto 1",
+      "estado" : false
+    }
+  }, {
+    "type": "tarea",
+    "id": "124",
+    "attributes": {
+      "texto" : "Punto 2",
+      "estado" : false
+    }
+  },{
+    "type": "tarea",
+    "id": "125",
+    "attributes": {
+      "texto" : "Punto 3",
+      "estado" : false
+    }
+  }]
+}
